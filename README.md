@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leonke
+- 👋 Hi, I’m Linus kipkoech 
 - 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Github 
